@@ -86,7 +86,7 @@ def display_score(stats):
 
     total_points = (FP2_points + quali_points + pole_points + race_points + FL_points + PS_points + diff_points)
 
-    # The following is the primary desired output of the program and provides a points breakdown and point total for
+    # The following is the primary desired output of the program and provides a point breakdown and point total for
     # the user-selected driver. There are two conditional strings that print if a driver has qualified first or claimed
     # the fastest lap of the race.
 
